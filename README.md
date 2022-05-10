@@ -23,7 +23,7 @@ git clone https://github.com/anandmpatil1997/Best_buy_website_clone_project
 ## Contributers :- 
 - #### [Parul Jamwal](https://www.linkedin.com/in/parul-jamwal)
 - #### [Aman Verma ](https://www.linkedin.com/in/aman-verma-)
-- #### [saurabha rai](https://www.linkedin.com/in/saurabha-rai-b83376233)
+- #### [Saurabha Kumar rai](https://www.linkedin.com/in/saurabha-rai-b83376233)
 - #### [Anand patil](https://www.linkedin.com/in/anand-patil-17166b204)
 - #### [Rahul Kishore](https://www.linkedin.com/in/rahul-kishore-48835b223/)
 
